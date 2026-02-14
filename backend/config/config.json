@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "inventory_db",
+    "host": "db",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
