@@ -1,13 +1,8 @@
 \# Inventory Management System (Production-Grade AWS Deployment)
 
-
-
 A full-stack inventory management application deployed on AWS using a highly available, production-style architecture with Auto Scaling, Load Balancing, and managed database services.
 
-
-
----
-
+![AWS Architecture](architecture/aws-architecture.png)
 
 
 \## Live Architecture
