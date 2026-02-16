@@ -176,7 +176,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/YOUR\_USERNAME/inventory-management-system.git
+git clone https://github.com/Sashank2256/inventory-management-system.git
 
 cd inventory-management-system
 
